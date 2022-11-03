@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: vacheron.springframework.sfgdi.SfgDiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.62 s - in vacheron.springframework.sfgdi.SfgDiApplicationTests
